@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://dudugame.ztsafe.com:19900/snake/Icon@2x.png</string>
+					<string>http://dudugame.ztsafe.com:19900/snake/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://dudugame.ztsafe.com:19900/snake/Icon.png</string>
+					<string>http://dudugame.ztsafe.com:19900/snake/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.ztgame.snakeFirim</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
