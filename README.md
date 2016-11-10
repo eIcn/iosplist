@@ -1,3 +1,3 @@
 # iosplist
 
-Nothing but save plist file
+Nothing but store plist file
